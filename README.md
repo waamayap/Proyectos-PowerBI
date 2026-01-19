@@ -7,7 +7,6 @@ Este repositorio contiene una colección de proyectos de Business Intelligence y
 
 ### Proyecto 01 – Análisis de las películas más taquilleras de la historia
 Análisis financiero y de rentabilidad de las películas con mayor recaudación, evaluando presupuesto, ingresos por región y ROI.
-https://github.com/waamayap/Proyectos-PowerBI/tree/main/Proyecto%2001%20-%20An%C3%A1lisis%20de%20las%20pel%C3%ADculas%20m%C3%A1s%20taquilleras
 
 ### Proyecto 02 – Business Analytics de la compañía Northwind
 Análisis integral de las operaciones comerciales de la compañía Northwind, incluyendo ventas por vendedor, productos, clientes, análisis geográfico, variación temporal y estructura jerárquica del negocio.
